@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+}
+
+.menu {
+    background-color: black;
+    height: 25%;
+}
+
+hr {
+    border-style: none;
+    border-top-style: groove;
+    border-color: grey;
+    border-width: 5px;
+    width: 15%;
+}
+
+#judul {
+    font-size: 60px;
+}
+
+.dream {
+    font-size: 30px;
+}
+
+.aku {
+    height: 90px;
+    border-radius: 100%;
+    margin-top: 25px;
+    margin-left: 130px;
+    float: left;
+}
+
+.pilih {
+    color: white;
+    margin-right: 15;
+    text-align: right;
+    word-spacing: 15px;
+    font-size: 17px;
+}
+
+.pilih-bottom {
+    color: white;
+    text-align: center;
+    word-spacing: 15px;
+    font-size: 17px;
+}
+
+.sosmed {
+    color: white;
+    font-size: 17px;
+    word-spacing: 58px;
+    text-align: center;
+}
+
+p {
+    font-size: 20;
+    font-family: "Fira Sans Condensed";
+}
+
+.top {
+    height: 100%;
+    background-image: url(backgrou.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.bottom {
+    justify-content: center;
+    background-color: black;
+    height: 25%;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.foto {
+    height: 190px;
+    border-radius: 100%;
+}
+
+.gambar {
+    height: 25%;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.perkenalan {
+    width: 60%;
+    margin: 80px auto 100px;
+}
+
+.pendidikan {
+    width: 80%;
+    margin: 100px auto 100px;
+}
+
+.organisasi {
+    width: 80%;
+    margin: 100px auto 100px;
+}
+
+.ahli {
+    width: 80%;
+    margin: 100px auto 100px;
+}
+
+.form {
+    width: 80%;
+    margin: 100px auto 100px;
+}
